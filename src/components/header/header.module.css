@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    max-width: 1080px;
+}
+
+.brand {
+    color: #818182;
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+.appName {
+    color: #276B7D;
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-left: -5px;
+}

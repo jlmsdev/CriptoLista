@@ -1,0 +1,34 @@
+.container {
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1 {
+    color: #FFF;
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+
+.container h2 {
+    color: #FFF;
+    margin-bottom: 1rem;
+}
+
+.container a {
+    font-weight: bold;
+    padding: 1rem;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    transition: all .5s;
+}
+
+.container a:hover {
+    background-color: #FFF;
+    color: #252525;
+}
