@@ -4,9 +4,8 @@ O CoinCap Dashboard é uma aplicação web que oferece uma experiência completa
 
 ## Demonstração
 
-Você pode acessar uma demonstração ao vivo do CoinCap Dashboard [aqui](https://example.com).
+Você pode acessar uma demonstração ao vivo do JLMS Currency [aqui](https://listacripto-jlms.netlify.app/).
 
-![CoinCap Dashboard Preview](https://example.com/preview-image.png)
 
 ## Funcionalidades
 
@@ -71,6 +70,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
----
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) - [Seu Website](https://seusite.com)
